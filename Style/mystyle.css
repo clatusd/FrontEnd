@@ -10,6 +10,7 @@ header {
     padding-right: 10%;
     flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header-logo {
@@ -18,7 +19,6 @@ header {
 
 .top {
     display: flex;
-    padding-left: 20px;
     
 }
 
@@ -28,7 +28,6 @@ header {
 
 .utilitites {
     display: flex;
-    padding-left: 20px;
 }
 
 .utilitites div {

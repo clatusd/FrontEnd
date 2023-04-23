@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -11,6 +12,7 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    font-weight: 500;
 }
 
 .header-logo {
@@ -28,6 +30,7 @@ header {
 
 .utilitites {
     display: flex;
+    align-items: center;
 }
 
 .utilitites div {

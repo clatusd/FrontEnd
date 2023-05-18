@@ -36,3 +36,20 @@ header {
 .utilitites div {
     padding: 20px;
 }
+
+.Health-Menu {
+    display: flex;
+    padding-left: 20%;
+    --padding-right: 50%;
+    flex-wrap: wrap;
+    gap: 10%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Health-Menu li {
+    padding-top: 20px;
+    width: 300%;
+}
